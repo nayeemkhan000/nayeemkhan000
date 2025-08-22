@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Nayeem Khan
+#  Hi , I'm Nayeem Khan
 **A passionate Full Stack Web Developer from Bangladesh**
 
 Email Me 👉 ✉️ **nayeem.cs000@gmail.com** For Collaboration/Project or Anything Else. 😊😊
