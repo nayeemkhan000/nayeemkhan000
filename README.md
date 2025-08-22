@@ -3,8 +3,7 @@
 
 Email Me 👉 ✉️ **nayeem.cs000@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Architect Website
-- 🌱 **I’m currently learning:** AI ML
+- 🌱 **Currently learning:** AI ML
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 😄 **Pronouns:** Nayeem
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
