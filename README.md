@@ -1,12 +1,20 @@
-
-
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=700&color=6A82FB&center=true&vCenter=true&width=500&lines=Hey,+I'm+Nayeem.;Engineering+Student;Full+Stack+%7C+Developer;UI/UX+Designer" alt="Typing SVG" />
+  <img src="https://i.ibb.co/qM9vtNjB/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.png" alt="Cover Photo" />
 </p>
 
+<!-- Typing Animation -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=Hi+I'm+Md.+Nayeem+Khan+👨‍💻;MERN+Stack+Web+Developer+💻;I+Love+Building+Modern+Web+Apps+🚀;Always+Learning+New+Tech+📚" alt="Typing SVG" />
+  </a>
+</h1>
 
-**A passionate Full Stack Web Developer from Bangladesh**
+
+
+# Md. Nayeem Khan
+
+
+**Hi, I’m Md. Nayeem Khan, a MERN Stack Developer passionate about creating responsive, user-friendly web apps. I love solving problems, writing clean code, and learning new technologies to build modern digital solutions.**
 
 Email Me 👉 ✉️ **nayeem.cs000@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
