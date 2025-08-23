@@ -12,7 +12,7 @@
 # Md. Nayeem Khan
 
 
-**Hi, I’m Md. Nayeem Khan, a MERN Stack Developer passionate about creating responsive, user-friendly web apps. I love solving problems, writing clean code, and learning new technologies to build modern digital solutions.**
+**A MERN Stack Developer passionate about creating responsive, user-friendly web apps. I love solving problems, writing clean code, and learning new technologies to build modern digital solutions.**
 
 Email Me 👉 ✉️ **nayeem.cs000@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
