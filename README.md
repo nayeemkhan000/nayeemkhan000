@@ -1,4 +1,11 @@
-#  Hi , I'm Nayeem Khan
+
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=700&color=6A82FB&center=true&vCenter=true&width=500&lines=Hey,+I'm+Nayeem.;Engineering+Student;Full+Stack+%7C+Developer;UI/UX+Designer" alt="Typing SVG" />
+</p>
+
+
 **A passionate Full Stack Web Developer from Bangladesh**
 
 Email Me 👉 ✉️ **nayeem.cs000@gmail.com** For Collaboration/Project or Anything Else. 😊😊
