@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.ibb.co/qM9vtNjB/Blue-Modern-Corporate-Staff-Profile-Linked-In-Banner.png" alt="Cover Photo" />
-</p>
+
 
 <!-- Typing Animation -->
 <h1 align="center">
